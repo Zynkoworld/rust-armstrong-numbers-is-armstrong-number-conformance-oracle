@@ -1,0 +1,5 @@
+{"input": 0, "expect": true, "raised": false, "task": "armstrong-numbers", "lang": "rust"}
+{"input": 5, "expect": true, "raised": false, "task": "armstrong-numbers", "lang": "rust"}
+{"input": 10, "expect": false, "raised": false, "task": "armstrong-numbers", "lang": "rust"}
+{"input": 153, "expect": true, "raised": false, "task": "armstrong-numbers", "lang": "rust"}
+{"input": 100, "expect": false, "raised": false, "task": "armstrong-numbers", "lang": "rust"}
